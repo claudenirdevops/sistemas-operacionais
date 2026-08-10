@@ -1,0 +1,15 @@
+EXERCÍCIOS DE FIXAÇÃO
+
+1.O que é um Sistema Operacional e quais são as suas três principais contribuições para a interação entre usuários e máquinas?
+Um sistema Operacional é um programa central que gerencia os demais programas e o hardware, servido de interface para que os seus usuários possam utilizá-lo de forma a utilizar mais serviços com melhor processamento.
+As suas 3 (três) principais contribuições são: INTERFACE para aproximar a aplicação do hardware, tornando independente da arquitetura física. FACILITAÇÃO diz respeito em permitir que o usuário utilize o hardware sem precisar de
+conhecimentos profundos sobre eletrônica ou arquitetura (abstração). GERÊNCIA DE SERVIÇOS em que cada serviço do SO é um processo (programa em execução) que controla recursos específicos.
+
+2.Durante a década de 1950, surgiu a primeira tentativa de um Sistema Operacional. Como ele era chamado e qual era o seu principal método de processamento?
+Ele foi chamado de IBM 701 e o seu método de processamento é baseado em memórias magnéticas, cartões perfurados e transístores.
+
+3.O que define um "serviço" dentro do contexto de um SO e qual a relação deste conceito com o termo "processo"?
+Cada serviço de um SO é um processo (programa em execução) que controla recursos específicos.
+
+4. Qual a principal diferença física entre sistemas Fortemente Acoplados e sistemas Fracamente Acoplados?
+Os sistemas Fortemente Acoplados são dois ou mais processadores utilizando a mesma mémória (compartilham), ao passo que os Sistemas Fracamente Acoplados são dois ou mais sistemas de computação independentes que estão conectados por uma linha de comunicação.
